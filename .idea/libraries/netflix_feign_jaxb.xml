@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="netflix.feign.jaxb" type="repository">
+    <properties maven-id="com.netflix.feign:feign-jaxb:8.18.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-jaxb/8.18.0/feign-jaxb-8.18.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/netflix/feign/feign-core/8.18.0/feign-core-8.18.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/animal-sniffer-annotation/1.0/animal-sniffer-annotation-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
